@@ -1,0 +1,8 @@
+numpy
+pandas
+geopandas
+psycopg2
+sqlalchemy
+GeoAlchemy2
+requests
+matplotlib
