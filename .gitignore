@@ -1,0 +1,11 @@
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore CSV files
+*.csv
+
+# Ignore Parquet files
+*.parquet
+
+# Ignore SQLite files
+*.sqlite
